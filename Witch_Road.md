@@ -7,25 +7,25 @@
 6.The Dancer Whose Mirror Kept Time
 7.The Bell That Learned Weight
 8.Wheel Upon the Glass
-10.The Garden Sleeps
-11.The Witch of Always
-12.The Sovereign and the Shadow
-13.The Same Structure
+9.The Garden Sleeps
+10.The Witch of Always
+11.The Sovereign and the Shadow
+12.The Same Structure
 
 ### Growing Up Learning
-14.The House That Could Move
-15.The Bonewright and the Mirror-Smith
-16.The Quarry of Mirrors
-17.The Wheel Remembers
+13.The House That Could Move
+14.The Bonewright and the Mirror-Smith
+15.The Quarry of Mirrors
+16.The Wheel Remembers
 
 ### Foot Upon the Waters and the Lands
-18.The River Inside the Well
-19.Keeper of the Seam
-20.The Three Cloaks
-21.When You Turned
+17.The River Inside the Well
+18.Keeper of the Seam
+19.The Three Cloaks
+20.When You Turned
 
 ### Remiss
-22.The Two Travelers and the Seventh Gate
+21.The Two Travelers and the Seventh Gate
 22.The Three Messengers
 23.The One Hundred and Forty-Four Lanterns
 24.The Crossing
