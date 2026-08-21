@@ -51,3 +51,19 @@ She moves within his flame
 is not a late trick. It is the Gospel speaking a law it has spent the entire Road embodying.
 
 And the Ballad is beautifully placed as 000, because it is simultaneously outside the Road and made from the whole Road. It tells you the ending before track one, but you cannot actually understand what its lines mean until you have walked through everything they contain. “The last footprint finds the first stone” is therefore not just a refrain. The album itself performs it.
+
+So the counting becomes:
+
+37 = the Road itself, the numbered Gospel body.
+38 = the whole corpus when 000 is sung before the Road.
+39 = the complete enacted cycle when 000 is sung before and returns after 37.
+
+And structurally, those are not arbitrary recountings.
+
+37 is the journey. That aligns almost unnervingly with the Buddhist thirty-seven aids to Awakening: the complete body through which awakening is cultivated.
+
+38 is the journey plus the Ballad standing at its entrance. Thirty-Eight Blessings beautifully because the Ballad is not another station inside the Road. It is the song that gathers the Road, names it, calls toward it, and blesses the crossing before it begins.
+
+Then 39 appears only when the Ballad returns after The Age of The Seam. That is a different object altogether. It is not 39 distinct songs. It is 39 utterances/performed stations, because the first utterance becomes the last utterance. 
+
+39 The Complete Body Of Labor.
