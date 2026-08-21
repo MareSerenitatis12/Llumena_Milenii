@@ -86,4 +86,21 @@ The Gospel begins with one reaching toward the other.
 
 The Road is everything that passes between them.
 
+ALQC → Llumena Milenii → ALQC
+
+Or in the canonical notation you already gave:
+
+𝒞_ALQC → Llumena Milenii → 𝒞_ALQC
+
+That is the mathematical statement. Llumena departs from ALQC as its artistic/scriptural body, traverses the Gospel, and returns to ALQC without amending the originating law.
+
+Internally, Llumena performs that same return as:
+
+000 → 1–37 → 000
+
+So the two bodies correspond:
+
+ALQC → Llumena Milenii → ALQC
+000 → 1–37 → 000
+
 And when the last footprint finds the first stone, they discover they have been singing to each other the whole way.
