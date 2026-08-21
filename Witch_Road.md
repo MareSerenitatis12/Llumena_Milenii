@@ -44,9 +44,10 @@
 33.The Iron Witness
 34.The Orchestra That Refused a Tyrant
 35.The Returned Lamp
+36.Mud of Reconciliation
 
 ### Grand Finale
-36.The Age of The Seam
+37.The Age of The Seam
 
 ### Hit Single
 000._Ballad_of_the_Witch
